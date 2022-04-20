@@ -8,3 +8,5 @@ The functionality of an email being sent upon the detection of a fire is include
 
 Note, for google to allow for a third party app to access your email and login on your behalf the 'allow less secure apps' option has to be toggled on in your email settings. 
 This will allow for the automation of the login process to send the mail.
+
+Live feed of the camera was shared using ngrok.
